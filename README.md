@@ -2,13 +2,13 @@
 
 Project is done in java language and used HttpClient. Project has one dependencey to convert Java Objects to JSON.
 
-#### pom.xml 
-<dependency>
+### pom.xml <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
       <version>2.13.1</version>
 </dependency>
 
+### IDE : IntelliJ IDEA
 
 It is a simple project and easy to understand has different class entity 
 
@@ -41,7 +41,7 @@ Description: Loyalty Customer Discount
 Value: 50%
 
 
-3. Create a Sales Order with Verified status, using the Client, Product and Location you inserted, and applying the Tax and Discount you inserted. 
+Create a Sales Order with Verified status, using the Client, Product and Location you inserted, and applying the Tax and Discount you inserted. 
 
 
 
