@@ -9,7 +9,9 @@ Project is done in java language and used HttpClient. Project has one dependence
       <version>2.13.1</version>
 </dependency>
 
+
 It is a simple project and easy to understand has different class entity 
+
 
 a. Product:
 SKU: 1112256 
@@ -37,6 +39,7 @@ e. Discount
 Name: Loyalty
 Description: Loyalty Customer Discount
 Value: 50%
+
 
 3. Create a Sales Order with Verified status, using the Client, Product and Location you inserted, and applying the Tax and Discount you inserted. 
 
